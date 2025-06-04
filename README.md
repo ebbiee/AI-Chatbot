@@ -23,7 +23,7 @@ A lightweight chatbot built using React and the OpenRouter API, powered by the D
 1. **Clone this repo:**
 
    ```bash
-   git clone https://github.com/yourusername/ai-chatbot-react.git
+   git clone https://github.com/ebbiee/AI-Chatbot.git
    cd ai-chatbot-react
 2. Install dependencies
     ```bash
