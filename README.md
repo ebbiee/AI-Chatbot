@@ -1,12 +1,57 @@
-# React + Vite
+# 🧠 AI Chatbot with React + OpenRouter API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A lightweight chatbot built using React and the OpenRouter API, powered by the DeepSeek model. Ask it anything, and it responds intelligently — all in a sleek UI.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Conversational interface
+- Real-time user & bot messages
+- Styled with CSS
+- Uses OpenRouter API to connect with DeepSeek model
+- Built with React functional components and hooks
 
-## Expanding the ESLint configuration
+## Technologies used
+* React
+* Vite
+* JavaScript 
+* Axios
+* CSS
+* OpenRouter API
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Installation
+
+1. **Clone this repo:**
+
+   ```bash
+   git clone https://github.com/yourusername/ai-chatbot-react.git
+   cd ai-chatbot-react
+2. Install dependencies
+    ```bash
+    npm install
+3. Use openrouter to generate your api key 
+    ```bash
+    VITE_API_KEY=your_openrouter_api_key_here
+4. Run your project
+    ```bash
+    npm run dev
+
+## Known Bugs
+
+* No known bugs
+
+## Support and contact details
+
+For Support, contact:
+Fabunmi Ebenezer
+fabunmiebenezer37@gmail.com
+09131956148
+LinkedIn - Fabunmi Ebenezer
+
+
+
+### License
+
+This software is licensed under the MIT license.
+
+Copyright (c) 2025 *Fabunmi Ebenezer*
+
